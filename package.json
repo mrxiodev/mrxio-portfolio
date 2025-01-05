@@ -1,5 +1,5 @@
 {
-	"name": "@mrxiodev/mrxio-portfolio",
+	"name": "mrxiodev/mrxio-portfolio",
 	"version": "0.2.0",
 	"scripts": {
 		"dev": "next dev",
